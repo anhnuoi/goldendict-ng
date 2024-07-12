@@ -53,6 +53,8 @@ This project is licensed under the <b>GNU GPLv3+</b> license, a copy of which ca
 
 The original project was developed at <http://goldendict.org/> and <https://github.com/goldendict/goldendict>.
 
+## Command to begin develop in ubuntu 20. QT 6.6.1
+sudo apt install libhunspell-dev liblzo2-dev libopencc-dev libvorbis-dev liblzma-dev libxapian-dev
 ## Thank JetBrains for the help
 
 [![JetBrains Black Box Logo logo](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_square.png)](https://jb.gg/OpenSourceSupport)
